@@ -1,0 +1,47 @@
+# ======================
+# PyCharm / IntelliJ
+# ======================
+.idea/
+*.iml
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# ======================
+# Jupyter Notebook
+# ======================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ======================
+# Data / outputs
+# ======================
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.h5
+*.pickle
+*.pkl
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# Logs
+# ======================
+*.log
